@@ -1,0 +1,15 @@
+package largest;
+public class three{
+public static void main (string[]args){
+int a=6;
+int b=7
+int c=10;
+if(a>b){
+system.out.println("a is largest number");
+}
+else if (b>c){
+system.out.println("b is largest number")
+}
+elsesystekm.out.println(" is largest number");
+}
+}
